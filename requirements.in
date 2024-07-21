@@ -1,0 +1,17 @@
+# Jupyter Notebook
+# ipykernel
+python-dotenv
+
+# Mediaflex 3rd Party librares - Oracle
+ipython-sql
+cx_Oracle
+sqlalchemy
+
+# 3rd Party Libraries
+fuzzywuzzy
+python-Levenshtein
+openpyxl
+pandas
+joblib
+numpy
+tqdm
